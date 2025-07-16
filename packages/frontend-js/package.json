@@ -1,6 +1,7 @@
 {
     "name": "@elan-ev/studip-named-routes",
     "version": "1.0.0",
+    "private": false,
     "files": [
         "src"
     ],
