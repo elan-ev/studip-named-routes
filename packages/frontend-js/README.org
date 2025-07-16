@@ -1,0 +1,4 @@
+⚠️ READ-ONLY MIRROR: This repository is automatically generated from
+ https://github.com/elan-ev/studip-named-routes.
+
+Please do not open issues or pull requests here. For contributions, see the main monorepo.
