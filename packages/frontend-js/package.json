@@ -1,26 +1,29 @@
 {
-    "name": "@elan-ev/studip-named-routes",
-    "version": "1.0.0",
-    "private": false,
-    "files": [
-        "src"
-    ],
-    "description": "Frontend code for elan-ev/studip-named-routes.",
-    "main": "src/index.js",
-    "authors": [
-        {
-            "name": "Marcus Eibrink-Lunzenauer",
-            "email": "lunzenauer@elan-ev.de"
-        }
-    ],
-    "dependencies": {
-        "qs": "^6.14.0"
-    },
-    "devDependencies": {
-        "jest": "^29.7.0"
-    },
-    "peerDependencies": {
-        "vue": "^3.5.13"
-    },
-    "license": "MIT"
+  "name": "@elan-ev/studip-named-routes",
+  "version": "1.0.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
+  "description": "Frontend code for elan-ev/studip-named-routes.",
+  "main": "src/index.js",
+  "authors": [
+    {
+      "name": "Marcus Eibrink-Lunzenauer",
+      "email": "lunzenauer@elan-ev.de"
+    }
+  ],
+  "dependencies": {
+    "qs": "^6.14.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "peerDependencies": {
+    "vue": "^3.5.13"
+  },
+  "license": "MIT"
 }
